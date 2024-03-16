@@ -2,7 +2,7 @@
   "name": "aqua-main",
   "displayName": "aqua-main",
   "description": "thema aqua colorfull dark",
-  "version": "0.0.1",
+  "version": "0.0.9",
   "publisher": "JohnnyBoySou",
   "engines": {
     "vscode": "^1.87.0"
@@ -19,5 +19,9 @@
         "path": "./themes/AquaMain-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JohnnyBoySou/aqua-main"
   }
 }
