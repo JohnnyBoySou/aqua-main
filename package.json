@@ -10,7 +10,7 @@
   "categories": [
     "Themes"
   ],
-  "icon": "https://i.pinimg.com/736x/73/ba/54/73ba54df7efb512ddd6ae6e753cb76eb.jpg",
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {

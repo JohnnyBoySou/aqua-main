@@ -1,5 +1,3 @@
-# aqua-main README
-
 ## Theme AquaMain Dark
 
 * Theme basead in colors:
